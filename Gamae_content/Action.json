@@ -1,0 +1,203 @@
+[
+    {
+      "title": "Marvel's Spider-Man Remastered",
+      "description": "Swing through New York as Spider-Man and fight crime in this high-fidelity action-packed experience.",
+      "genre": ["Action", "Open World", "Superhero"],
+      "platform": ["PC", "PS5"],
+      "releaseYear": 2022,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game1.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game1_compressed.mp4",
+      "tags": ["Superhero", "Web-slinging", "Story-rich", "Combat", "Exploration", "Cinematic", "Urban", "3rd Person"]
+    },
+    {
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "description": "Experience epic ninja battles with cinematic flair and fan-favorite characters from the Naruto universe.",
+      "genre": ["Fighting", "Anime", "Story-rich"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2016,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game2.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game2_compressed.mp4",
+      "tags": ["Anime", "Combo-Based", "Multiplayer", "1v1", "Naruto", "Arena", "Fast-paced", "Cinematic"]
+    },
+    {
+      "title": "FIFA 19",
+      "description": "Step onto the pitch with world-class footballers and compete in the Champions League and more.",
+      "genre": ["Sports", "Simulation", "Multiplayer"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2018,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game3.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game3_compressed.mp4",
+      "tags": ["Football", "Multiplayer", "Team-based", "PvP", "Career Mode", "E-Sports", "Tactics", "Licensed Teams"]
+    },
+    {
+      "title": "The Amazing Spider-Man 2",
+      "description": "Join Spider-Man in this cinematic open-world experience to protect New York from rising crime.",
+      "genre": ["Action", "Adventure", "Superhero"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2014,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game5.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game4_compressed.mp4",
+      "tags": ["Marvel", "Web-slinging", "Narrative", "Crime", "Third-Person", "Action-Packed", "Stealth", "Open World"]
+    },
+    {
+      "title": "Stray",
+      "description": "Play as a stray cat in a futuristic cybercity, solving puzzles and uncovering secrets to find your family.",
+      "genre": ["Adventure", "Puzzle", "Indie"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2022,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game4.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game5_compressed.mp4",
+      "tags": ["Cyberpunk", "Cat", "Exploration", "Mystery", "Atmospheric", "Story-rich", "Robots", "Puzzle Solving"]
+    },
+    {
+      "title": "Marvel’s Spider-Man: Miles Morales",
+      "description": "Embrace the power of a new Spider-Man and save the city with stunning visuals and fast-paced combat.",
+      "genre": ["Action", "Open World", "Superhero"],
+      "platform": ["PC", "PS5"],
+      "releaseYear": 2022,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game6.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game6_compressed.mp4",
+      "tags": ["Spider-Verse", "Marvel", "Urban", "Stealth", "Combat", "Swinging", "Fast Travel", "Narrative"]
+    },
+    {
+      "title": "God of War 4",
+      "description": "Follow Kratos and Atreus on a mythic Norse journey of survival, vengeance, and fatherhood.",
+      "genre": ["Action", "Adventure", "Story-rich"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2018,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game7.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game7_compressed.mp4",
+      "tags": ["Mythology", "Cinematic", "Narrative", "Combat", "Puzzle", "Third-Person", "Single Player", "Norse"]
+    },
+    {
+      "title": "Jump Force",
+      "description": "Fight with legendary anime heroes from Dragon Ball, Naruto, One Piece, and more in this crossover brawler.",
+      "genre": ["Fighting", "Anime", "Action"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2019,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game8.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game8_compressed.mp4",
+      "tags": ["Anime", "Shonen", "Crossover", "Arena", "PvP", "Fast-paced", "3D Fighter", "Multiplayer"]
+    },
+    {
+      "title": "Naruto Storm 3",
+      "description": "Relive the Fourth Great Ninja War with explosive battles and powerful jutsu in this Naruto action-fighting game.",
+      "genre": ["Fighting", "Anime", "Story-rich"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2013,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game9.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game9_compressed.mp4",
+      "tags": ["Naruto", "Jutsu", "Boss Battles", "Anime", "Cinematic", "Multiplayer", "Arena", "Fighting"]
+    },
+    {
+      "title": "Human: Fall Flat",
+      "description": "Solve physics-based puzzles in hilarious, wobbly environments with your friends in co-op mode.",
+      "genre": ["Puzzle", "Co-op", "Comedy"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2016,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game10.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game10_compressed.mp4",
+      "tags": ["Physics", "Funny", "Multiplayer", "Co-op", "Casual", "3D", "Exploration", "Creative"]
+    },
+    {
+      "title": "DRAGON BALL Z: KAKAROT",
+      "description": "Relive the story of Goku in an action-RPG that blends fighting, exploration, and storytelling from the DBZ saga.",
+      "genre": ["RPG", "Fighting", "Anime"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2020,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game10.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game11(name_as_10)_compressed.mp4",
+      "tags": ["Dragon Ball", "Goku", "Story Mode", "Boss Battles", "Adventure", "Anime", "Side Quests", "Combat"]
+    },
+    {
+      "title": "DRAGON BALL FighterZ",
+      "description": "Fast-paced 2.5D anime battles with iconic Dragon Ball characters, gorgeous visuals, and competitive multiplayer.",
+      "genre": ["Fighting", "Anime", "E-Sports"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2018,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game11.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game11_compressed.mp4",
+      "tags": ["Dragon Ball", "3v3", "Tournament", "Combos", "Fast-paced", "2.5D", "Multiplayer", "Spectator"]
+    },
+    {
+      "title": "Resident Evil 4 Remake",
+      "description": "Survive the horrors of a European village in this modernized remake of a survival-horror classic.",
+      "genre": ["Horror", "Survival", "Action"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2023,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game12.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game12_compressed.mp4",
+      "tags": ["Horror", "Remake", "Zombies", "Third-Person", "Tense", "Shooter", "Narrative", "Atmospheric"]
+    },
+    {
+      "title": "TEKKEN 7",
+      "description": "Unleash powerful combos in the King of Iron Fist Tournament with an epic story and multiplayer clashes.",
+      "genre": ["Fighting", "E-Sports", "Arcade"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2017,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game13.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game13_compressed.mp4",
+      "tags": ["1v1", "Combo-Based", "Martial Arts", "Multiplayer", "Tournament", "Fast-paced", "3D Fighter", "PvP"]
+    },
+    {
+      "title": "Naruto: Ultimate Ninja Revolution",
+      "description": "Unite generations of ninjas for explosive anime battles with an expanded roster and engaging story mode.",
+      "genre": ["Fighting", "Anime", "Story-rich"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2014,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game14.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game14_compressed.mp4",
+      "tags": ["Naruto", "Anime", "Ninja", "Action", "Cinematic", "Arena", "Special Moves", "Combo System"]
+    },
+    {
+      "title": "Watch Dogs 2",
+      "description": "Hack the system and lead a digital rebellion across San Francisco in this open-world hacker adventure.",
+      "genre": ["Action", "Open World", "Tech"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2016,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game15.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game15_compressed.mp4",
+      "tags": ["Hacking", "Stealth", "Multiplayer", "Gadgets", "Story-rich", "Parkour", "Driving", "Modern"]
+    },
+    {
+      "title": "171",
+      "description": "Explore a gritty Brazilian open-world filled with crime, action, and raw urban life in this indie GTA-style game.",
+      "genre": ["Action", "Open World", "Indie"],
+      "platform": ["PC"],
+      "releaseYear": 2022,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game17.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game19_171_compressed.mp4",
+      "tags": ["Urban", "GTA-style", "Brazil", "Third-Person", "Driving", "Guns", "Crime", "Realistic"]
+    },
+    {
+      "title": "Mortal Kombat X",
+      "description": "Experience brutal fights and finishers with an iconic cast in this gory fighting game entry.",
+      "genre": ["Fighting", "Gore", "Arcade"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2015,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game16.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game16_compressed.mp4",
+      "tags": ["Fatalities", "Violence", "Arcade", "1v1", "Combo", "Brutal", "Multiplayer", "Dark"]
+    },
+    {
+      "title": "Attack on Titan 2",
+      "description": "Fly through cities and slay massive Titans in this action-packed adaptation of the anime phenomenon.",
+      "genre": ["Action", "Anime", "Hack & Slash"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2018,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game20.jpg",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game17_compressed.mp4",
+      "tags": ["Anime", "Titans", "Story Mode", "ODM Gear", "Boss Fights", "Narrative", "Fast-paced", "3D"]
+    },
+    {
+      "title": "Minecraft Dungeons",
+      "description": "Dive into dungeons, defeat mobs, and gather loot in this blocky dungeon crawler inspired by Minecraft.",
+      "genre": ["Adventure", "Hack & Slash", "Co-op"],
+      "platform": ["PC", "Console"],
+      "releaseYear": 2020,
+      "image": "https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_files/Action_game18.png",
+      "trailer":"https://arcadeum.s3.us-west-2.amazonaws.com/Action_games_trailer/Action_game18_compressed.mp4",
+      "tags": ["Voxel", "Dungeon Crawler", "Loot", "Multiplayer", "Pixel Art", "Casual", "Fast-paced", "Crafting"]
+    }
+  ]
+  
